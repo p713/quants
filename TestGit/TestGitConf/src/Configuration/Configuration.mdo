@@ -39,4 +39,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Пользователи</catalogs>
+  <catalogs>Catalog.Элементы</catalogs>
 </mdclass:Configuration>
